@@ -1,2 +1,2 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&test=JinWooP98)
+![header](https://capsule-render.vercel.app/api?type=venom&text=JinWooP98)
